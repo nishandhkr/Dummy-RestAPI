@@ -1,1 +1,1 @@
-# Dummy-RestAPI
+Tools Used: Express, Mongoose, Sequelize
